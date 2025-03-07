@@ -11,6 +11,8 @@ namespace Hola_Mundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola MUNDO");
+            Console.WriteLine("Soy Wendy");
+
         }
     }
 }
